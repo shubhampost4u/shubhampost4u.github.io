@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "First post"
-description: "This is gonna be my First Post"
-category: 
-tags: []
+title: "Pre-independence: Economy"
+description: "NCERT Textbook Notes"
+category: Economy
+tags: [civil sevice, Economy, ncert, upsc]
 ---
 {% include JB/setup %}
+{% include eco_ncert.html %}
